@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/favicon.ico" alt="Ibima Logo" width="80" height="auto" />
+  <img src="logo.png" alt="Ibima Logo" width="120" height="auto" style="border-radius: 50%" />
   <h1>Ibima. To build.</h1>
   <p><strong>Premium Offshore Talent — Embedded Directly Into Your Team.</strong></p>
   <p>
